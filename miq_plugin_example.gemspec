@@ -8,10 +8,10 @@ Gem::Specification.new do |s|
   s.name        = "miq_plugin_example"
   s.version     = MiqPluginExample::VERSION
   s.authors     = ["Martin Povolny"]
-  s.email       = ["mpovolny@redhat.com"]
+  s.email       = ["tjyang2001@gmail.com"]
   s.homepage    = "http://www.manageiq.org"
   s.summary     = "ManageIQ plugin example"
-  s.description = "ManageIQ plugin example"
+  s.description = "ManageIQ plugin menu example"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
